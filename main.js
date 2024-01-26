@@ -1,5 +1,5 @@
 const key = 'e58bfd93a525a2df533b979eb459293d';
-
+// Funcional
 function dadosNaTela(dados) {
     // Pegando os elementos da tela que vão receber as informações.
     console.log(dados)
